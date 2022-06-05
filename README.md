@@ -7,7 +7,8 @@ About
 
   Communities need to understand how resilience and energy transition work to implement solutions. Even if those changes are incremental, changing communities with marginal impacts may be more effective in the long run. 
 
-   The platform will focus on the variety of responses that communities may implement themselves. All over the world, communities are already applying resiliency solutions, and we want to increase their visibility by providing collaborative management tools. For instance, communities may collaborate to reuse materials for projects in different neighborhoods. We need storytelling about how communities are already achieving resilience, and the platform will showcase impactful projects. We plan to start by gathering evidence and mapping communities that already had achievements in the following areas: 
+   I want to create a map and forum that would cross reference each other and will focus on the variety of responses that communities may implement themselves. All over the world, communities are already applying resiliency solutions, and we want to increase their visibility by providing collaborative management tools. For instance, communities may collaborate to reuse materials for projects in different neighborhoods. We need storytelling about how communities are already achieving resilience, and the map will showcase impactful projects. We plan to start by gathering evidence and mapping communities that already had achievements in the following areas: 
 Self-sufficient communities and access to renewable energy
 Flood protection with nature-based solutions
 Urban heat mitigation strategies
+
