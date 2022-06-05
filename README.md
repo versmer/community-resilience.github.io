@@ -1,5 +1,6 @@
 # Community Resilience by Design
 About
+
   Climate change increases the unpredictability and severity of extreme weather events. Cities suffer from climate hazards such as flooding, rainstorms, droughts, coastal erosion, and heatwaves. Thus, there is a need for resiliency thinking that acknowledges that change is inevitable and the attempts to resist the change cannot be successful. People should be working with the environment and not against it. The characteristic of a resilient city is the ability to absorb disturbance while undergoing change and still retain its functions.
 
   There is not so much dispute over achieving resiliency among the general public, people want to lower the climate anxiety and have access to clean energy, but it gets politicized. Thus, there is a need for a bottom-up approach and community-led development. 
